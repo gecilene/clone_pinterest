@@ -1,0 +1,94 @@
+
+body{
+    background-repeat: no-repeat;
+    min-height: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(fundo.jpeg);
+    background-color:white;
+}
+.login_facebook {
+    height:50px;
+    width:300px;
+   min-width: 10vh;
+     background-color:blue;
+     color:white;
+     font-family: 'Varela Round', sans-serif;
+     display: flex;
+     margin: 23px auto;
+     border-radius: 40px;
+     padding: 24px;
+     background-image: url('bg.jpg');
+}
+
+.login_facebook img{
+width: 25px;
+
+border-radius: 50px;
+height: 20px;
+top: auto;
+
+}
+.logo img{
+    border-radius: 400px;
+}
+.google{
+    height:50px;
+    width:300px;
+   min-width: 10vh;
+     background-color:rgb(255, 255, 255);
+     color:black;
+     font-family: 'Varela Round', sans-serif;
+     display: flex;
+     margin: 23px auto;
+     border-radius: 40px;
+     padding: 24px;
+     background-image: url('bg.jpg');
+}
+.google img{
+width: 30px;
+
+border-radius: 34px;
+height: 25px;
+top:80px;
+}
+
+.login_continuar{
+    height:15px;
+    width:300px;
+   min-width: 10vh;
+     background-color:red;
+     color:white;
+     font-family: 'Varela Round', sans-serif;
+     display: flex;
+     margin: 23px auto;
+     border-radius: 40px;
+     padding: 24px;
+     background-image: url('bg.jpg');
+  
+}
+.login_email
+{
+    height:50px;
+    width:300px;
+   min-width: 10vh;
+     background-color:white;
+     color:black;
+     font-family: 'Varela Round', sans-serif;
+     display: flex;
+     margin: 23px auto;
+     border-radius: 40px;
+     padding: 24px;
+     background-image: url('bg.jpg');
+   
+}
+h6{
+    text-align: center;
+    color:black;
+}
+a{
+    color:rgb(35, 50, 207);
+}
+img{
+    border-radius: 40px;
+}
